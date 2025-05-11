@@ -1,3 +1,6 @@
+# All Python scripts are ignored by default, since GNUr generates Python scripts when you run flowgraphs
+*.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
